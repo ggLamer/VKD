@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="temp">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>20</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Temp</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="humi">
+    <property name="enabled">
+     <bool>true</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>60</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Humidity</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="prec">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>100</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Precc</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="connetc">
+    <property name="geometry">
+     <rect>
+      <x>610</x>
+      <y>0</y>
+      <width>191</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">  text-decoration: none;
+  display: inline-block;
+  color: black;
+  padding: 20px 30px;
+  margin: 10px 20px;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background: qlineargradient(spread:pad, x1:0.920364, y1:0.585, x2:0.125, y2:0.6875, stop:0.403409 rgba(167, 185, 255, 255), stop:0.994318 rgba(131, 189, 232, 255));
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);</string>
+    </property>
+    <property name="text">
+     <string>Connect</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="x_left">
+    <property name="geometry">
+     <rect>
+      <x>170</x>
+      <y>70</y>
+      <width>191</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">  text-decoration: none;
+  display: inline-block;
+  color: black;
+  padding: 20px 30px;
+  margin: 10px 20px;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background: qlineargradient(spread:pad, x1:0.920364, y1:0.585, x2:0.125, y2:0.6875, stop:0.403409 rgba(167, 185, 255, 255), stop:0.994318 rgba(131, 189, 232, 255));
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);</string>
+    </property>
+    <property name="text">
+     <string>X left</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="y_right">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>0</y>
+      <width>191</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">  text-decoration: none;
+  display: inline-block;
+  color: black;
+  padding: 20px 30px;
+  margin: 10px 20px;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background: qlineargradient(spread:pad, x1:0.920364, y1:0.585, x2:0.125, y2:0.6875, stop:0.403409 rgba(167, 185, 255, 255), stop:0.994318 rgba(131, 189, 232, 255));
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);</string>
+    </property>
+    <property name="text">
+     <string>y right</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="y_left">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>70</y>
+      <width>191</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">  text-decoration: none;
+  display: inline-block;
+  color: black;
+  padding: 20px 30px;
+  margin: 10px 20px;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background: qlineargradient(spread:pad, x1:0.920364, y1:0.585, x2:0.125, y2:0.6875, stop:0.403409 rgba(167, 185, 255, 255), stop:0.994318 rgba(131, 189, 232, 255));
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);</string>
+    </property>
+    <property name="text">
+     <string>y left</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="x_right">
+    <property name="geometry">
+     <rect>
+      <x>170</x>
+      <y>0</y>
+      <width>191</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">  text-decoration: none;
+  display: inline-block;
+  color: black;
+  padding: 20px 30px;
+  margin: 10px 20px;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background: qlineargradient(spread:pad, x1:0.920364, y1:0.585, x2:0.125, y2:0.6875, stop:0.403409 rgba(167, 185, 255, 255), stop:0.994318 rgba(131, 189, 232, 255));
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);</string>
+    </property>
+    <property name="text">
+     <string>X Right</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>21</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
