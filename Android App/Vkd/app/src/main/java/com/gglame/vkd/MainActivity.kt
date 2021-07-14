@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val but = findViewById(R.id.conn) as Button
+        val but = findViewById<Button>(R.id.conn)
         val temp = findViewById(R.id.temp) as TextView
         val press = findViewById(R.id.press) as TextView
         val humi = findViewById(R.id.humidity) as TextView
