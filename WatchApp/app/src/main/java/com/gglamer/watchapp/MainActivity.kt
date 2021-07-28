@@ -13,7 +13,7 @@ import java.net.URL
 class MainActivity : AppCompatActivity() {
 
     companion object{
-        var ip = "192.168.239.242"
+        var ip = "192.168.31.160:5050"
         var state = 1
     }
 
@@ -28,14 +28,15 @@ class MainActivity : AppCompatActivity() {
             GlobalScope.launch {
                 while (true) {
                     try {
-                        val temperature = URL("http://192.168.239.242:5000/temperature").readText()
-                        //val humidity = URL("http://$ip/humidity").readText()
+                        val temperature = URL("http://${ip}/temperature").readText()
+                        val humidity = URL("http://${ip}/humidity").readText()
                         //val pressure = URL("http://$ip/pressure").readText()
 
-                        runOnUiThread(kotlinx.coroutines.Runnable {
-                            TempFragment.progress = temperature
-                        })
-                    }catch (e: java.net.SocketException){
+
+                        TempFragment.progress = temperature
+                        HumidityFragment.progress = humidity
+
+                    }catch (e: java.io.IOException){
                         getparam()
                         println(e)
                         println("catch")
@@ -43,10 +44,7 @@ class MainActivity : AppCompatActivity() {
                 }
             }
         }
-        if (state == 1){
-            getparam()
-            println(state)
-        }
+        getparam()
 
 
     }

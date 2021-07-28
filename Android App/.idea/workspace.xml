@@ -30,10 +30,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82d4fb55-4d8a-463b-81df-302829ac21e6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Watch App/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Watch App/app/src/main/java/com/gglamer/test/BlankFragment.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Watch App/app/src/main/res/layout/fragment_blank.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Watch App/app/src/main/res/navigation/navi.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WatchApp/app/src/main/java/com/gglamer/watchapp/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../WatchApp/app/src/main/java/com/gglamer/watchapp/MainActivity.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +61,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WatchApp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Vkd" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.1387504100">
@@ -166,11 +163,11 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="690" y="302" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.30.1920.1050/0.30.1920.1050@0.30.1920.1050" timestamp="1626808192650" />
-    <state x="740" y="310" key="FileChooserDialogImpl" timestamp="1627195960979">
+    <state x="740" y="310" key="FileChooserDialogImpl" timestamp="1627464842319">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="740" y="310" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1627195960979" />
-    <state x="740" y="310" key="FileChooserDialogImpl/1920.30.1920.1050/0.30.1920.1050@0.30.1920.1050" timestamp="1626966851332" />
+    <state x="740" y="310" key="FileChooserDialogImpl/1920.30.1920.1050/0.30.1920.1050@0.30.1920.1050" timestamp="1627464842319" />
     <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1626807501422">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
