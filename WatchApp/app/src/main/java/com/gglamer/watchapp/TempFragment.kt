@@ -15,6 +15,10 @@ import java.net.URL
 
 class TempFragment : Fragment() {
 
+    companion object{
+        var progress = "10"
+    }
+
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
         return inflater.inflate(R.layout.fragment_temp, container, false)
     }
@@ -24,24 +28,12 @@ class TempFragment : Fragment() {
 
         val tempbar = view.findViewById<CircularProgressBar>(R.id.temp_progressbar)
         val temp = view.findViewById<TextView>(R.id.temp)
+        tempbar.setProgressWithAnimation(65f, 40)
 
-        CoroutineScope(Dispatchers.IO).launch {
-            while (true) {
-                try {
-                    val temperature = URL("http://192.168.31.40:5000/temperature/").readText()
+        tempbar.progress = progress.toFloat()
+        temp.text = progress
 
-                    val tempt = temperature.toFloat()
-                    activity?.runOnUiThread(Runnable{
-                        temp.setText(temperature)
-                        tempbar.progress = tempt
-                    })
 
-                }catch (e: java.net.ConnectException){
-                    println(e)
-                    println("catch")
-                }
-            }
         }
-    }
 
 }

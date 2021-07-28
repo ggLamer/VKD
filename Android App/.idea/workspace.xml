@@ -29,13 +29,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82d4fb55-4d8a-463b-81df-302829ac21e6" name="Default Changelist" comment="" />
+    <list default="true" id="82d4fb55-4d8a-463b-81df-302829ac21e6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Watch App/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Watch App/app/src/main/java/com/gglamer/test/BlankFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Watch App/app/src/main/res/layout/fragment_blank.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Watch App/app/src/main/res/navigation/navi.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[SerialNumber@192.168.31.213:37961]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -60,7 +64,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WearApp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WatchApp" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.1387504100">
@@ -71,9 +75,7 @@
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="Watch.app" />
@@ -129,9 +131,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
-      <method v="2">
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -166,9 +166,10 @@
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
     <state x="690" y="302" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.30.1920.1050/0.30.1920.1050@0.30.1920.1050" timestamp="1626808192650" />
-    <state x="740" y="310" key="FileChooserDialogImpl" timestamp="1626966851332">
+    <state x="740" y="310" key="FileChooserDialogImpl" timestamp="1627195960979">
       <screen x="0" y="30" width="1920" height="1050" />
     </state>
+    <state x="740" y="310" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1627195960979" />
     <state x="740" y="310" key="FileChooserDialogImpl/1920.30.1920.1050/0.30.1920.1050@0.30.1920.1050" timestamp="1626966851332" />
     <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1626807501422">
       <screen x="0" y="30" width="1920" height="1050" />
