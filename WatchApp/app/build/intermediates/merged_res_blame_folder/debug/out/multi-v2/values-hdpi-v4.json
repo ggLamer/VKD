@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "K:\\WORK COPIED\\WORK COPIED\\VKD\\VKD\\WatchApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Azama\\.gradle\\caches\\transforms-2\\files-2.1\\9406b2b1267297fc017e7027d8bc30bc\\appcompat-1.2.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

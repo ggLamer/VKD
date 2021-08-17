@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "K:\\WORK COPIED\\WORK COPIED\\VKD\\VKD\\WatchApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-round-v23\\values-round-v23.xml",
+            "map": [
+                {
+                    "source": "K:\\WORK COPIED\\WORK COPIED\\VKD\\VKD\\WatchApp\\app\\src\\main\\res\\values-round\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "58",
+                        "endOffsets": "71"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "284",
+                        "endColumns": "58",
+                        "endOffsets": "338"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Azama\\.gradle\\caches\\transforms-2\\files-2.1\\914a5afd9cf8bc85e7e7cbb786d8d1a8\\wear-1.1.0\\res\\values-round-v23\\values-round-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,118,204",
+                        "endColumns": "62,85,79",
+                        "endOffsets": "113,199,279"
+                    }
+                }
+            ]
+        }
+    ]
+}

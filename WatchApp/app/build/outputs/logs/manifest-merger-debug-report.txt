@@ -1,0 +1,274 @@
+-- Merging decision tree log ---
+manifest
+ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:2:1-42:12
+MERGED from [androidx.databinding:viewbinding:4.2.2] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\a86ea156f1c6c70da169573cb5f0d3f3\viewbinding-4.2.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\a8e78915166aa0074d6b796b6207670d\core-ktx-1.6.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.mikhaellopez:circularprogressbar:3.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\2aee0454ab466c6ee920b16a78e61464\circularprogressbar-3.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\41e7c37b28b33c75e1fdae327e817ab2\play-services-wearable-17.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\d8cf51c8424fc4e2b3339afebd3e0629\percentlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\406350611cb4f661b647034e5abb9edb\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.wear:wear:1.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\914a5afd9cf8bc85e7e7cbb786d8d1a8\wear-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\c78e2c0af5afa33232d9367e0579742a\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\dafeb60989f149d261f75912da5819c3\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\6fa4755f99aedfab6db6547c856ad485\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\307fa3699e5a50b4626c2be64c6fe4f4\play-services-base-17.5.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\e831a3749730f1da8f793df6a317f589\play-services-tasks-17.2.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\5a27f31db71f602041a5c38f7810d812\play-services-basement-17.5.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\1be280a1f8635b6197a47fa4e5328d6c\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\16022fda65e52f1a153b1a97817890a4\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\6d46647d828d9f08f8e88e5942790788\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\f2e5b1206570a82806e1a197ad24a53b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\8e6a20d7fc9c099ccd7eba17798bb58f\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\a9311d74d80edcfc384ea90c9cbb4fb3\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\9406b2b1267297fc017e7027d8bc30bc\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\a73116e2928362c52a6e267920b0f577\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\35b89a7df077b7fd54f833295eaf549b\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\715842898e8d0f21c004cfc21e10f9e2\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\9ae9140bc2935bc05d63358f03a829d5\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\5db7002fd679cf8fc5b68e26cfdd44d3\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\4c402b822b8b50ac41d543b09ce5b564\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\1d8550c1f5de451c55fc6403408c54e6\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\3a82be62ce1ccb11a27f6ec84dd58a17\appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\31a64ca6ed8676f803ec755f43a77806\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\f04385de59c26420d58d147a9a74fe51\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\bcf16181c4de1d212fa3db965560e89d\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\2325b2b7b8d08d58e3a5dc9cfd07c7e8\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\24fba449364f94ad2253271a5dab7b7d\activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\ba1d9cdeace3374a3d1f11cb4c3f7039\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\b46b3f9f320747dbae98e35027f70956\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\6a605a23ec971aaf0adfa6c7baa84e76\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\43a76a240df6409a668896b320cdb11f\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\006f75501ee49bd5eb21e79e4363589a\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\76cf6e48a6f215ca02fb8be5d7ec1d75\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\467156583574eb755c4e2afa393e7e04\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\6beb34cd66cfb7058da4244864872e09\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\0c8a3c26715cec24790921fccae595a2\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\c90334a696ff11caa6686d514dc2bb1e\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\99e89960184c0d2d7381d69ed6b5b8cc\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\9c9ceaa32745ca9137c1deb8f41d677e\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\7565da836257268c70c5556d1df8a86b\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\a4056a31eccfb7a8b7358f9342345116\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\c05c2560aa638e51e1584e20fc898d4a\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\2309c301d9c715399ce59dfc6758a6c1\annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml
+		INJECTED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml
+		ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml
+		ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:2:1-42:12
+		INJECTED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.INTERNET
+ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:6:22-64
+uses-feature#android.hardware.type.watch
+ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:8:5-64
+	android:name
+		ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:8:19-61
+application
+ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:10:5-40:19
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\41e7c37b28b33c75e1fdae327e817ab2\play-services-wearable-17.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\41e7c37b28b33c75e1fdae327e817ab2\play-services-wearable-17.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\c78e2c0af5afa33232d9367e0579742a\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\c78e2c0af5afa33232d9367e0579742a\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\307fa3699e5a50b4626c2be64c6fe4f4\play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\307fa3699e5a50b4626c2be64c6fe4f4\play-services-base-17.5.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\e831a3749730f1da8f793df6a317f589\play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\e831a3749730f1da8f793df6a317f589\play-services-tasks-17.2.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\5a27f31db71f602041a5c38f7810d812\play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\5a27f31db71f602041a5c38f7810d812\play-services-basement-17.5.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\a9311d74d80edcfc384ea90c9cbb4fb3\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\a9311d74d80edcfc384ea90c9cbb4fb3\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.6.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\ba1d9cdeace3374a3d1f11cb4c3f7039\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\ba1d9cdeace3374a3d1f11cb4c3f7039\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\6a605a23ec971aaf0adfa6c7baa84e76\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\6a605a23ec971aaf0adfa6c7baa84e76\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\ba1d9cdeace3374a3d1f11cb4c3f7039\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:15:9-59
+uses-library#com.google.android.wearable
+ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:16:9-18:39
+	android:required
+		ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:18:13-36
+	android:name
+		ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:17:13-55
+meta-data#com.google.android.wearable.standalone
+ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:24:9-26:36
+	android:value
+		ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:26:13-33
+	android:name
+		ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:25:13-66
+meta-data#preloaded_fonts
+ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:27:9-29:57
+	android:resource
+		ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:29:13-54
+	android:name
+		ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:28:13-43
+activity#com.gglamer.watchapp.MainActivity
+ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:31:9-39:20
+	android:label
+		ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:33:13-45
+	android:name
+		ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:32:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:37:27-74
+uses-sdk
+INJECTED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml
+INJECTED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.2.2] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\a86ea156f1c6c70da169573cb5f0d3f3\viewbinding-4.2.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.2] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\a86ea156f1c6c70da169573cb5f0d3f3\viewbinding-4.2.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\a8e78915166aa0074d6b796b6207670d\core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\a8e78915166aa0074d6b796b6207670d\core-ktx-1.6.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikhaellopez:circularprogressbar:3.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\2aee0454ab466c6ee920b16a78e61464\circularprogressbar-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikhaellopez:circularprogressbar:3.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\2aee0454ab466c6ee920b16a78e61464\circularprogressbar-3.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\41e7c37b28b33c75e1fdae327e817ab2\play-services-wearable-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:17.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\41e7c37b28b33c75e1fdae327e817ab2\play-services-wearable-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\d8cf51c8424fc4e2b3339afebd3e0629\percentlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.percentlayout:percentlayout:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\d8cf51c8424fc4e2b3339afebd3e0629\percentlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\406350611cb4f661b647034e5abb9edb\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\406350611cb4f661b647034e5abb9edb\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.wear:wear:1.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\914a5afd9cf8bc85e7e7cbb786d8d1a8\wear-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.wear:wear:1.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\914a5afd9cf8bc85e7e7cbb786d8d1a8\wear-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\c78e2c0af5afa33232d9367e0579742a\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\c78e2c0af5afa33232d9367e0579742a\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\dafeb60989f149d261f75912da5819c3\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\dafeb60989f149d261f75912da5819c3\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\6fa4755f99aedfab6db6547c856ad485\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\6fa4755f99aedfab6db6547c856ad485\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\307fa3699e5a50b4626c2be64c6fe4f4\play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\307fa3699e5a50b4626c2be64c6fe4f4\play-services-base-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\e831a3749730f1da8f793df6a317f589\play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\e831a3749730f1da8f793df6a317f589\play-services-tasks-17.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\5a27f31db71f602041a5c38f7810d812\play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\5a27f31db71f602041a5c38f7810d812\play-services-basement-17.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\1be280a1f8635b6197a47fa4e5328d6c\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\1be280a1f8635b6197a47fa4e5328d6c\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\16022fda65e52f1a153b1a97817890a4\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\16022fda65e52f1a153b1a97817890a4\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\6d46647d828d9f08f8e88e5942790788\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\6d46647d828d9f08f8e88e5942790788\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\f2e5b1206570a82806e1a197ad24a53b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\f2e5b1206570a82806e1a197ad24a53b\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\8e6a20d7fc9c099ccd7eba17798bb58f\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\8e6a20d7fc9c099ccd7eba17798bb58f\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\a9311d74d80edcfc384ea90c9cbb4fb3\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\a9311d74d80edcfc384ea90c9cbb4fb3\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\9406b2b1267297fc017e7027d8bc30bc\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\9406b2b1267297fc017e7027d8bc30bc\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\a73116e2928362c52a6e267920b0f577\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\a73116e2928362c52a6e267920b0f577\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\35b89a7df077b7fd54f833295eaf549b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\35b89a7df077b7fd54f833295eaf549b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\715842898e8d0f21c004cfc21e10f9e2\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\715842898e8d0f21c004cfc21e10f9e2\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\9ae9140bc2935bc05d63358f03a829d5\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\9ae9140bc2935bc05d63358f03a829d5\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\5db7002fd679cf8fc5b68e26cfdd44d3\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\5db7002fd679cf8fc5b68e26cfdd44d3\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\4c402b822b8b50ac41d543b09ce5b564\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\4c402b822b8b50ac41d543b09ce5b564\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\1d8550c1f5de451c55fc6403408c54e6\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\1d8550c1f5de451c55fc6403408c54e6\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\3a82be62ce1ccb11a27f6ec84dd58a17\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\3a82be62ce1ccb11a27f6ec84dd58a17\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\31a64ca6ed8676f803ec755f43a77806\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\31a64ca6ed8676f803ec755f43a77806\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\f04385de59c26420d58d147a9a74fe51\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\f04385de59c26420d58d147a9a74fe51\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\bcf16181c4de1d212fa3db965560e89d\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\bcf16181c4de1d212fa3db965560e89d\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\2325b2b7b8d08d58e3a5dc9cfd07c7e8\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\2325b2b7b8d08d58e3a5dc9cfd07c7e8\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\24fba449364f94ad2253271a5dab7b7d\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\24fba449364f94ad2253271a5dab7b7d\activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\ba1d9cdeace3374a3d1f11cb4c3f7039\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\ba1d9cdeace3374a3d1f11cb4c3f7039\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\b46b3f9f320747dbae98e35027f70956\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\b46b3f9f320747dbae98e35027f70956\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\6a605a23ec971aaf0adfa6c7baa84e76\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\6a605a23ec971aaf0adfa6c7baa84e76\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\43a76a240df6409a668896b320cdb11f\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\43a76a240df6409a668896b320cdb11f\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\006f75501ee49bd5eb21e79e4363589a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\006f75501ee49bd5eb21e79e4363589a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\76cf6e48a6f215ca02fb8be5d7ec1d75\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\76cf6e48a6f215ca02fb8be5d7ec1d75\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\467156583574eb755c4e2afa393e7e04\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\467156583574eb755c4e2afa393e7e04\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\6beb34cd66cfb7058da4244864872e09\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\6beb34cd66cfb7058da4244864872e09\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\0c8a3c26715cec24790921fccae595a2\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\0c8a3c26715cec24790921fccae595a2\lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\c90334a696ff11caa6686d514dc2bb1e\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\c90334a696ff11caa6686d514dc2bb1e\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\99e89960184c0d2d7381d69ed6b5b8cc\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\99e89960184c0d2d7381d69ed6b5b8cc\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\9c9ceaa32745ca9137c1deb8f41d677e\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\9c9ceaa32745ca9137c1deb8f41d677e\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\7565da836257268c70c5556d1df8a86b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\7565da836257268c70c5556d1df8a86b\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\a4056a31eccfb7a8b7358f9342345116\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\a4056a31eccfb7a8b7358f9342345116\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\c05c2560aa638e51e1584e20fc898d4a\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\c05c2560aa638e51e1584e20fc898d4a\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\2309c301d9c715399ce59dfc6758a6c1\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\2309c301d9c715399ce59dfc6758a6c1\annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml
+INJECTED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml
+		ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml
+		INJECTED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml
+		ADDED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml
+		INJECTED from K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\307fa3699e5a50b4626c2be64c6fe4f4\play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\307fa3699e5a50b4626c2be64c6fe4f4\play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\307fa3699e5a50b4626c2be64c6fe4f4\play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.5.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\307fa3699e5a50b4626c2be64c6fe4f4\play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\5a27f31db71f602041a5c38f7810d812\play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\5a27f31db71f602041a5c38f7810d812\play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.5.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\5a27f31db71f602041a5c38f7810d812\play-services-basement-17.5.0\AndroidManifest.xml:24:13-58

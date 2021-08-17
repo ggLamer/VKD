@@ -1,0 +1,10 @@
+com/gglamer/watchapp/BuildConfig.java
+ com.gglamer.watchapp.BuildConfig
+com/gglamer/watchapp/databinding/FragmentButtonsBinding.java
+ com.gglamer.watchapp.databinding.FragmentButtonsBinding
+com/gglamer/watchapp/databinding/FragmentTempBinding.java
+ com.gglamer.watchapp.databinding.FragmentTempBinding
+com/gglamer/watchapp/databinding/ActivityMainBinding.java
+ com.gglamer.watchapp.databinding.ActivityMainBinding
+com/gglamer/watchapp/databinding/FragmentHumidityBinding.java
+ com.gglamer.watchapp.databinding.FragmentHumidityBinding

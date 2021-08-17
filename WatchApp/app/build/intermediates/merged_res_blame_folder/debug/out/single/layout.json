@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "K:\\WORK COPIED\\WORK COPIED\\VKD\\VKD\\WatchApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "K:\\WORK COPIED\\WORK COPIED\\VKD\\VKD\\WatchApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "K:\\WORK COPIED\\WORK COPIED\\VKD\\VKD\\WatchApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_humidity.xml",
+        "source": "K:\\WORK COPIED\\WORK COPIED\\VKD\\VKD\\WatchApp\\app\\src\\main\\res\\layout\\fragment_humidity.xml"
+    },
+    {
+        "merged": "K:\\WORK COPIED\\WORK COPIED\\VKD\\VKD\\WatchApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_buttons.xml",
+        "source": "K:\\WORK COPIED\\WORK COPIED\\VKD\\VKD\\WatchApp\\app\\src\\main\\res\\layout\\fragment_buttons.xml"
+    },
+    {
+        "merged": "K:\\WORK COPIED\\WORK COPIED\\VKD\\VKD\\WatchApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_temp.xml",
+        "source": "K:\\WORK COPIED\\WORK COPIED\\VKD\\VKD\\WatchApp\\app\\src\\main\\res\\layout\\fragment_temp.xml"
+    }
+]

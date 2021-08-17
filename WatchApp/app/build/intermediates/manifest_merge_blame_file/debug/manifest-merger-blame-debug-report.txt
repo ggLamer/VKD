@@ -1,0 +1,98 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.gglamer.watchapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="25"
+8-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WAKE_LOCK" />
+11-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:5:5-68
+11-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:5:22-65
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:6:5-66
+12-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:6:22-64
+13
+14    <uses-feature android:name="android.hardware.type.watch" />
+14-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:8:5-64
+14-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:8:19-61
+15
+16    <application
+16-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:10:5-40:19
+17        android:allowBackup="true"
+17-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:11:9-35
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.6.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\ba1d9cdeace3374a3d1f11cb4c3f7039\core-1.6.0\AndroidManifest.xml:24:18-86
+19        android:debuggable="true"
+20        android:extractNativeLibs="false"
+21        android:icon="@mipmap/ic_launcher"
+21-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:12:9-43
+22        android:label="@string/app_name"
+22-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:13:9-41
+23        android:supportsRtl="true"
+23-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:14:9-35
+24        android:theme="@style/Theme.AppCompat.NoActionBar" >
+24-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:15:9-59
+25        <uses-library
+25-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:16:9-18:39
+26            android:name="com.google.android.wearable"
+26-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:17:13-55
+27            android:required="true" />
+27-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:18:13-36
+28
+29        <!--
+30               Set to true if your app is Standalone, that is, it does not require the handheld
+31               app to run.
+32        -->
+33        <meta-data
+33-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:24:9-26:36
+34            android:name="com.google.android.wearable.standalone"
+34-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:25:13-66
+35            android:value="true" />
+35-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:26:13-33
+36        <meta-data
+36-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:27:9-29:57
+37            android:name="preloaded_fonts"
+37-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:28:13-43
+38            android:resource="@array/preloaded_fonts" />
+38-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:29:13-54
+39
+40        <activity
+40-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:31:9-39:20
+41            android:name="com.gglamer.watchapp.MainActivity"
+41-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:32:13-41
+42            android:label="@string/app_name" >
+42-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:33:13-45
+43            <intent-filter>
+43-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:34:13-38:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:35:17-69
+44-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:35:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:37:17-77
+46-->K:\WORK COPIED\WORK COPIED\VKD\VKD\WatchApp\app\src\main\AndroidManifest.xml:37:27-74
+47            </intent-filter>
+48        </activity>
+49        <activity
+49-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\307fa3699e5a50b4626c2be64c6fe4f4\play-services-base-17.5.0\AndroidManifest.xml:23:9-26:75
+50            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+50-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\307fa3699e5a50b4626c2be64c6fe4f4\play-services-base-17.5.0\AndroidManifest.xml:24:13-79
+51            android:exported="false"
+51-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\307fa3699e5a50b4626c2be64c6fe4f4\play-services-base-17.5.0\AndroidManifest.xml:25:13-37
+52            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+52-->[com.google.android.gms:play-services-base:17.5.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\307fa3699e5a50b4626c2be64c6fe4f4\play-services-base-17.5.0\AndroidManifest.xml:26:13-72
+53
+54        <meta-data
+54-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\5a27f31db71f602041a5c38f7810d812\play-services-basement-17.5.0\AndroidManifest.xml:23:9-25:69
+55            android:name="com.google.android.gms.version"
+55-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\5a27f31db71f602041a5c38f7810d812\play-services-basement-17.5.0\AndroidManifest.xml:24:13-58
+56            android:value="@integer/google_play_services_version" />
+56-->[com.google.android.gms:play-services-basement:17.5.0] C:\Users\Azama\.gradle\caches\transforms-2\files-2.1\5a27f31db71f602041a5c38f7810d812\play-services-basement-17.5.0\AndroidManifest.xml:25:13-66
+57    </application>
+58
+59</manifest>

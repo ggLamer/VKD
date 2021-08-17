@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".TempFragment">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/temp"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:fontFamily="@font/atma_bold"
+            android:text="34.55°C"
+            android:textAlignment="center"
+            android:textSize="20sp"
+            app:layout_constraintBottom_toBottomOf="@+id/temp_progressbar"
+            app:layout_constraintEnd_toEndOf="@+id/temp_progressbar"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="@+id/temp_progressbar"
+            app:layout_constraintTop_toTopOf="@+id/temp_progressbar"
+            app:layout_constraintVertical_bias="0.5" />
+
+        <com.mikhaellopez.circularprogressbar.CircularProgressBar
+            android:id="@+id/temp_progressbar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            app:cpb_background_progressbar_color_end="#36707070"
+            app:cpb_background_progressbar_color_start="#36707070"
+            app:cpb_background_progressbar_width="10dp"
+            app:cpb_progress="20"
+            app:cpb_progress_direction="to_right"
+            app:cpb_progress_max="100"
+            app:cpb_progressbar_color_end="#FF0000"
+            app:cpb_progressbar_color_start="#0000FF"
+            app:cpb_progressbar_width="10dp"
+            app:cpb_round_border="false"
+            app:cpb_start_angle="180"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

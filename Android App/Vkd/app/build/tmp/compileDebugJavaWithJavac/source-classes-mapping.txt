@@ -1,0 +1,2 @@
+com/gglame/vkd/BuildConfig.java
+ com.gglame.vkd.BuildConfig
