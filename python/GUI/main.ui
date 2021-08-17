@@ -108,58 +108,6 @@
      <string>X left</string>
     </property>
    </widget>
-   <widget class="QPushButton" name="y_right">
-    <property name="geometry">
-     <rect>
-      <x>370</x>
-      <y>0</y>
-      <width>191</width>
-      <height>71</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">  text-decoration: none;
-  display: inline-block;
-  color: black;
-  padding: 20px 30px;
-  margin: 10px 20px;
-  border-radius: 10px;
-  font-family: 'Montserrat', sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  background: qlineargradient(spread:pad, x1:0.920364, y1:0.585, x2:0.125, y2:0.6875, stop:0.403409 rgba(167, 185, 255, 255), stop:0.994318 rgba(131, 189, 232, 255));
-  box-shadow: 0 0 20px rgba(0, 0, 0, .1);</string>
-    </property>
-    <property name="text">
-     <string>y right</string>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="y_left">
-    <property name="geometry">
-     <rect>
-      <x>370</x>
-      <y>70</y>
-      <width>191</width>
-      <height>71</height>
-     </rect>
-    </property>
-    <property name="styleSheet">
-     <string notr="true">  text-decoration: none;
-  display: inline-block;
-  color: black;
-  padding: 20px 30px;
-  margin: 10px 20px;
-  border-radius: 10px;
-  font-family: 'Montserrat', sans-serif;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  background: qlineargradient(spread:pad, x1:0.920364, y1:0.585, x2:0.125, y2:0.6875, stop:0.403409 rgba(167, 185, 255, 255), stop:0.994318 rgba(131, 189, 232, 255));
-  box-shadow: 0 0 20px rgba(0, 0, 0, .1);</string>
-    </property>
-    <property name="text">
-     <string>y left</string>
-    </property>
-   </widget>
    <widget class="QPushButton" name="x_right">
     <property name="geometry">
      <rect>
@@ -184,6 +132,110 @@
     </property>
     <property name="text">
      <string>X Right</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Acceleration">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>190</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Acceleration:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Acceleration_X">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>240</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Acceleration X: </string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Acceleration_Y">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>280</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Acceleration Y:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Acceleration_Z">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>320</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Acceleration Z</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Rotation">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>190</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Rotation:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Rotation_X">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>240</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Rotation X:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Rotation_Y">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>280</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Rotation Y:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="Rotation_Z">
+    <property name="geometry">
+     <rect>
+      <x>140</x>
+      <y>320</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Rotation Z:</string>
     </property>
    </widget>
   </widget>
