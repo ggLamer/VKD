@@ -1,17 +1,38 @@
+#include <Adafruit_INA219.h>
+
 #include <ESP8266WiFi.h>
 #include <ESPAsyncTCP.h>
 #include <ESPAsyncWebServer.h>
 #include <FS.h>
 #include <Wire.h>
 #include <Adafruit_Sensor.h>
-const uint8_t pin_ENA = D0;
-const uint8_t pin_DIR = D1;
-const uint8_t pin_PUL = D2;
+const uint8_t pin_ENA = D6;
+const uint8_t pin_DIR = D7;
+const uint8_t pin_PUL = D8;
+Adafruit_INA219 ina219;
 
 uint32_t f = 10000;
 
 const char* ssid = "Azamat";
 const char* password = "R00000000";
+
+String getbusvoltage() {
+  float busvoltage = 0;
+  busvoltage = ina219.getBusVoltage_V();
+  return String(busvoltage);
+}
+String getpower_mW() {
+  float power_mW = 0;
+  power_mW = ina219.getPower_mW();
+  return String(power_mW);
+}
+String getcurrent_mA() {
+  float current_mA = 0;
+  current_mA = ina219.getCurrent_mA();
+  return String(current_mA);
+}
+
+
 
 
 AsyncWebServer server(80);
@@ -28,6 +49,9 @@ void setup() {
   if (!SPIFFS.begin()) {
     Serial.println("An Error has occurred while mounting SPIFFS");
     return;
+  }
+  if(!ina219.begin()){
+    Serial.println("NO ina219");
   }
 
   // Connect to Wi-Fi
@@ -73,6 +97,20 @@ void setup() {
   server.on("/stop", HTTP_GET, [](AsyncWebServerRequest * request) {
     digitalWrite( pin_ENA, 1 );
     request->send_P(200, "text/plain", "stop");
+  });
+
+
+  server.on("/getbusvoltage", HTTP_GET, [](AsyncWebServerRequest * request) {
+    digitalWrite( pin_ENA, 1 );
+    request->send_P(200, "text/plain", getbusvoltage().c_str());
+  });
+  server.on("/getpower_mW", HTTP_GET, [](AsyncWebServerRequest * request) {
+    digitalWrite( pin_ENA, 1 );
+    request->send_P(200, "text/plain", getpower_mW().c_str());
+  });
+  server.on("/getcurrent_mA", HTTP_GET, [](AsyncWebServerRequest * request) {
+    digitalWrite( pin_ENA, 1 );
+    request->send_P(200, "text/plain", getcurrent_mA().c_str());
   });
 
   server.begin();
